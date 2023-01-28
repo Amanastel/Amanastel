@@ -119,7 +119,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1cK9TDMpkF8Fs7_StGDhMa6P-lDIZvfNS/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1cK9TDMpkF8Fs7_StGDhMa6P-lDIZvfNS/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
  
 </p>
                                                                                                                        
