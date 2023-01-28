@@ -139,7 +139,7 @@
  
 </div> -->
  <div >
-    <a  align="left" href="https://github.com/keshavch0udhary"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!--     <a align="right" href="https://github.com/keshavch0udhary"><img alt="amanastel Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
 
