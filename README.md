@@ -5,7 +5,7 @@
 <h4 align="left">- Currently looking for a new opprtunity</h4>
 </div>
 <br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt="amanastel" /> </p>
 
 
 <!-- ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) -->
@@ -129,9 +129,7 @@
                                                                                                                        
 ## 📊 My Github Stats
    <br/>   
-    <p align="center">      
-  <a href="https://github.com/Amanastel/github-readme-stats"><img  aling="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yadavarjun182's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/></a>
-      </p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
   <br/>
  
 <!-- <div >
@@ -142,7 +140,10 @@
 </div> -->
  <br/> <div >
     <a  align="left" href="https://github.com/keshavch0udhary"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a align="right" href="https://github.com/keshavch0udhary"><img alt="amanastel Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
+<!--     <a align="right" href="https://github.com/keshavch0udhary"><img alt="amanastel Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></p>
+
+</div>
  
 
 <br/>
@@ -174,11 +175,9 @@
   <a><img alt="Aman Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a> -->
 <!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
  
-## ❤ Views and Followers
-<a href="https://github.com/Amanastel/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yadavarjun182">
-</a>
-<a href="https://github.com/Amanastel?tab=followers"><img src="https://img.shields.io/github/followers/yadavarjun182?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
  
 
  
