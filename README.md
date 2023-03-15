@@ -43,7 +43,7 @@
 
 - 📫 How to reach me **amankumar.ak0012@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://github.com/Amanastel)**
+- 🔭 Know more about me **[Portfolio](https://amanastel.github.io/)**
 
 
 
