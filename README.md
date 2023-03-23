@@ -145,6 +145,10 @@
 <!--     <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
+ 
+ <a>&nbsp;<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
+ 
+<!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avinash-here&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 </div>
  
