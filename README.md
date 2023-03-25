@@ -128,8 +128,9 @@
  
 
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
-                                                                                                                       
-## 📊 My Github Stats
+               
+<p  width="50px" height="50px">📊 My Github Stats</p>
+<!-- ##  -->
 <!--    <br/>    -->
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
    <br/>   
