@@ -132,19 +132,13 @@
 ## 📊 My Github Stats
 <!--    <br/>    -->
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
+   <br/>   
+ <p><img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
 <!--   <br/> -->
- 
-<!-- <div >
-  <img  aling="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yadavarjun182's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
- 
- <img align="right" alt="amanastel Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="48%"/> 
- 
-</div> -->
+
 
  <div >
  
-<!--     <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
 
