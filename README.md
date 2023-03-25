@@ -53,7 +53,21 @@
 
  </p>
  
-
+ 
+<div align="left"><h2 > 🌐 Socials</h2> 
+  <p align="left"></p>
+<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
+<br/>
+ 
+<p align="left">
+<a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href = "https://www.instagram.com/aman_astel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1UOf9fYvWCMJ-M45t927K4Wc7YVfO3aox/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
+</p>
+   </div>                                                                                                              
+ <br/>   
+ 
  
  </div>
 
@@ -112,42 +126,31 @@
 <a href="https://www.buymeacoffee.com/amanastel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>           
  
- 
-<div><h2> 🌐 Socials</h2> <div/>
-  <p align="left"></p>
-<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
-<br/>
- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-<p align="left">
-<a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href = "https://www.instagram.com/aman_astel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1UOf9fYvWCMJ-M45t927K4Wc7YVfO3aox/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
-</p>
-                                                                                                                       
- <br/>   
- 
+
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
                                                                                                                        
 ## 📊 My Github Stats
 <!--    <br/>    -->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
+<img align="right" alt="Coding" width="350" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+ <div>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" />
 <!--   <br/> -->
 <!--  <p> <img align="center" width="490" src="https://github-readme-stats.vercel.app/api/wakatime?username=amanastel&theme=dark"/> -->
- </p>
+<!--  </p> -->
 <!-- <div >
   <img  aling="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yadavarjun182's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"  width="48%"/>
  
  <img align="right" alt="amanastel Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="48%"/> 
  
-</div> -->
- <div >
+ -->
+
+
 <!--     <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
- 
- <a>&nbsp;<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
- 
+ <div align="right"> 
+ <a align="right">&nbsp;<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
+ </div>
 <!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avinash-here&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 </div>
