@@ -129,10 +129,11 @@
 
   <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
                
-<p  width="50px" height="50px">📊 My Github Stats</p>
-<!-- ##  -->
+
 <!--    <br/>    -->
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+
+## 📊 My Github Stats:
    <br/>   
  <p><img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
 <!--   <br/> -->
