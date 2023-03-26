@@ -135,6 +135,11 @@
 
 ## 📊 My Github Stats:
    
+<!--    <p align="center"> 
+  <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
+  <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
+</p> -->
+   
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
   <br/>
  <br/>  
