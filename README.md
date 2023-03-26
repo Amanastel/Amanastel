@@ -134,18 +134,18 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
 
 ## 📊 My Github Stats:
-   <br/>   
+   
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
-<!--   <br/> -->
-
+  <br/>
+ <br/>  
 
  <div >
  
- <a  align="left" href="https://github.com/amanastel"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a  align="left" width="700px" href="https://github.com/amanastel"><img  width="400px" alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
 
 </div>
-
+ <br/>  
 <div align="right"> 
  <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
  </div>
@@ -165,7 +165,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aman-astel-18a543198/"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
