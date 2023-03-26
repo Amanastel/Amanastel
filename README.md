@@ -135,7 +135,7 @@
 
 ## 📊 My Github Stats:
    <br/>   
- <p><img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
 <!--   <br/> -->
 
 
