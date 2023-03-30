@@ -133,14 +133,15 @@
 <!--    <br/>    -->
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
 
-## 📊 My Github Stats:
+<!-- ## 📊 My Github Stats: -->
    
 <!--    <p align="center"> 
   <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
   <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
 </p> -->
    
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
+   
+<!--  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="amanastel" /></p>
   <br/>
  <br/>  
 
@@ -154,7 +155,57 @@
 <div align="right"> 
  <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
  </div>
+  -->
+  
+  
+<br/>
+<h2 align="center">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+ My Github Stats 
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
+</h2>
+ </h2>
+ <p align="center">
+<a href="https://github.com/amanastel">
+ </br>
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanastel&layout=compact&langs_count=8&theme=vue-dark"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=monokai" alt="aman"
+   width ="100%"    align="center"
+         height="200px" 
+/></a> </p>
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+  <div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=vue-dark" alt="aman" width="46%" height="200px"/></p></div>
+<div>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
+ <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
+        width="100%" heigth="250px"
+      /></p>
+
+
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&theme=dracula" alt="aman" align="center" /></a>
+</p>
+  <br/>
+ <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ************************************************************************ -->
+<!-- grid-snake  -->
+<div align="center">
+<!--  <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/> -->
+
+ </div>
+<!--  ![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ************************************************************************ -->
+<!-- ************************************************************************ -->
+<!--![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)  -->
+ <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
  
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p> 
  <!----------------------------------------------------------------------------------------------------------------------------------------->
 
     
@@ -172,12 +223,13 @@
   <a href="https://www.linkedin.com/in/aman-astel-18a543198/"> 
   <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+ 
+ 
+<!-- <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
-       <!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> -->
         <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
-<br/>
+<br/> -->
  
 <!--  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Aman Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a> -->
