@@ -168,7 +168,7 @@
  <p align="center">
 <a href="https://github.com/amanastel">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanastel&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=vue-dark"/>
   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=monokai" alt="aman"
    width ="100%"    align="center"
          height="200px" 
@@ -177,7 +177,7 @@
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=vue-dark" alt="aman" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanastel&layout=compact&langs_count=8&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
         width="100%" heigth="250px"
