@@ -218,10 +218,10 @@
 
 <!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/aman-astel-18a543198/"> 
   <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+</div> -->
  
  
 <!-- <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
