@@ -152,8 +152,8 @@
       <br>postgres
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="stackoverflow" />
-      <br>stackoverflow
+        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" />
+      <br>netlify
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
