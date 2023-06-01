@@ -135,6 +135,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+      <br>html
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -154,10 +158,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" />
-      <br>netlify
     </td>
   </tr>
 </table>
