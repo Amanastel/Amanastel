@@ -267,7 +267,7 @@
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=vue-dark" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=amanastel&theme=monokai&hide_border=false&include_all_commits=true&count_private=false" alt="aman" width="46%" height="200px"/></p></div>
 <div>
 <p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanastel&layout=compact&langs_count=8&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
  <p align="center">
