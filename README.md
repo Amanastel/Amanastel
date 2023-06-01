@@ -75,7 +75,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="48" height="48" />
       <br>eclipse
     </td>
     <td align="center" width="96">
@@ -88,12 +88,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
       <br>docker
     </td>
     <td align="center" width="96">
@@ -102,28 +102,24 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br>mysql
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="48" height="48" />
       <br>idea
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
       <br>firebase
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
       <br>python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
     </td>
   <tr>
@@ -140,7 +136,7 @@
       <br>hibernate
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
