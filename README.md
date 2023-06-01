@@ -82,6 +82,10 @@
         <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="docker" />
       <br>gradle
     </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="maven" />
+      <br>maven
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
