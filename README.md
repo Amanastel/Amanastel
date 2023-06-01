@@ -75,10 +75,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="48" height="48" />
-      <br>eclipse
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="docker" />
       <br>gradle
     </td>
@@ -150,10 +146,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>postgres
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="replit" />
-      <br>replit
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="stackoverflow" />
