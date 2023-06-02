@@ -275,24 +275,10 @@
         width="100%" heigth="250px"
       /></p>
 
-
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&theme=dracula" alt="aman" align="center" /></a>
 </p>
   <br/>
- <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ************************************************************************ -->
-<!-- grid-snake  -->
-<div align="center">
-<!--  <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/> -->
-
- </div>
-<!--  ![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ************************************************************************ -->
-<!-- ************************************************************************ -->
-<!--![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)  -->
- <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -305,37 +291,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!--------------------------------------------------------GRAPH------------------------------------------------------------>
-
-
-<br/>
-<br/>
-
-<!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
-
-<!-- <div align="center">
-  <a href="https://www.linkedin.com/in/aman-astel-18a543198/"> 
-  <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div> -->
- 
- 
-<!-- <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-        <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
-<br/> -->
- 
-<!--  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a> -->
-<!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
- 
-
-
-
- 
-
- 
-<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 
  
 
