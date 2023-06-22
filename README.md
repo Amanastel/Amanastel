@@ -14,7 +14,7 @@
 <!--  </div> -->
 <!-- [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)] -->
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
