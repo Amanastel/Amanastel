@@ -169,6 +169,26 @@
 </table>
 
 
+<!-- Total Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false)<br/>
+
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br>
+
+## ⚡ Activity Graph
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true"/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+ -->
 
  <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                              <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
 <p align="center">
@@ -216,25 +236,28 @@
  </h2>
  <p align="center">
 <a href="https://github.com/amanastel">
- </br>
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=vue-dark"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=monokai" alt="aman"
+ </br>   
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=amanastel&theme=monokai&hide_border=false&include_all_commits=true&count_private=false" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amanastel&layout=compact&langs_count=8&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="aman" height="200px"  width="48%"/></p></div>
+
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
+</p>
+ 
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
         width="100%" heigth="250px"
       /></p>
 
-<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&theme=dracula" alt="aman" align="center" /></a>
-</p>
+
   <br/>
 
  
