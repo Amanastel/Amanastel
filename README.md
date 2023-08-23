@@ -248,7 +248,7 @@
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="aman" height="200px"  width="48%"/></p></div>
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
