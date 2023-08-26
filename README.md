@@ -43,8 +43,6 @@
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Amanastel?tab=repositories)**
-
 - 📫 How to reach me **amankumar.ak0012@gmail.com**
 
 - 🔭 Know more about me **[Portfolio](https://amanastel.github.io/)**
