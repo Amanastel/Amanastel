@@ -23,7 +23,12 @@
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
- 
+
+<p>
+  <a href="https://amanastel.github.io/" target="text-decoration:none">
+   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+</p>
 
 
 
