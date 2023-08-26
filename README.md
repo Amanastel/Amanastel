@@ -7,8 +7,7 @@
 </div>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"amanastel" /> </p>
-
-
+<a href = "https://amanastel.github.io/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Portfolio&logoColor=white"/></a>
 
 <p align="left"> <imgsrc="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt="amanastel" /> </p>
 
