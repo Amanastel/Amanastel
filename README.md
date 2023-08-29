@@ -169,6 +169,52 @@
       <br>linux
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="linux" />
+      <br>Django
+    </td>
+    
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="linux" />
+      <br>python
+    </td>
+
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="linux" />
+      <br>Git
+    </td>
+
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="linux" />
+      <br>Ai
+    </td>
+    
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="linux" />
+      <br>Mongodb
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="linux" />
+      <br>spring
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="linux" />
+      <br>sqlite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="linux" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="linux" />
+      <br>postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bots" width="48" height="48" alt="linux" />
+      <br>bots
+    </td>
+  </tr>
 </table>
 
 
