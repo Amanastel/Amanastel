@@ -287,10 +287,7 @@
 <a href="https://github.com/amanastel">
  </br>   
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanastel&theme=gotham&hide_border=false"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
-   width ="100%"    align="center"
-         height="200px" 
-/></a> </p>
+  
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanastel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="aman" width="46%" height="200px"/></p></div>
@@ -300,7 +297,10 @@
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
 </p>
- 
+ <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=amanastel&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="aman"
+   width ="100%"    align="center"
+         height="200px" 
+/></a> </p>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanastel&theme=monokai"  align="center"
         width="100%" heigth="250px"
