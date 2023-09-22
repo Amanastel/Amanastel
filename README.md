@@ -2,7 +2,7 @@
 <p align="center">Full Stack developer</p>
 <div width="100%" display="flex">
 <p align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</p>
-<p align="left">- Currently looking for a new opprtunity</p>
+<p align="left"> Currently looking for a new opprtunity</p>
 </div>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"amanastel" /> </p>
