@@ -1,22 +1,23 @@
 <div>
 <div width="100%" display="flex">
-<p align="center">As a Full-Stack Web Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</p>
-<p align="left"> Currently looking for a new opprtunity</p>
+<h3 align="center">As a Full-Stack Web Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</h3>
+<h3 align="left"> Currently looking for a new opprtunity</h3>
 </div>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"amanastel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"Amanastel" /> </p>
 
-
-<p align="left"> <imgsrc="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt="amanastel" /> </p>
-
-<!-- ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) -->
+ ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) 
 <!-- <div width="100%"  style="margin-auto"> -->
-<img align="center" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center">
-<!-- <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"/> -->
-<!--  </div> -->
+</div>
+
+<!-- 
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" align="center"></p>
+-->
+
+
 <!-- [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)] -->
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
 
 
@@ -27,37 +28,29 @@
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 </p>
- 
-
-<div align="center">
 
 
-
-
-
-## 🙋‍♂️ About Me
-
-<div>
-
-<p aling="left" width="48%" height="300">
-
-- 🌱 Learning ** Web Development from Masai School**
+ ## 🙋‍♂️ About Me
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Amanastel?tab=repositories)**
 - My Portfolio **[My Portfolio](https://amanastel.github.io/)**
 - 📫 How to reach me **amankumar.ak0012@gmail.com**
+- ⚡ Fun fact :Did you know that the name "Java" was inspired by the Java coffee, which was consumed in large quantities by the language's creators during its development? The original     name for the language was supposed to be "Oak," but due to trademark issues, it was changed to "Java." Additionally, the first public release of Java, known as JDK 1.0, was       
+    launched on January 23, 1996.
+
+- 🌎 Today’s the day: let’s write some code and change the world 🌎
+
+<div align="center">
+
+<div>
 
 
 
 
 
 
-- ⚡ Fun fact **I love understanding how exactly anything works**
-
- </p>
- 
  
 <div align="left"><h2 > 🌐 Socials</h2> 
   <p align="left"></p>
