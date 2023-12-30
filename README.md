@@ -1,7 +1,6 @@
 <div>
-<p align="center">Full Stack developer</p>
 <div width="100%" display="flex">
-<p align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</p>
+<p align="center">As a Full-Stack Web Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</p>
 <p align="left"> Currently looking for a new opprtunity</p>
 </div>
 <br/>
