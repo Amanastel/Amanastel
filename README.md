@@ -1,6 +1,6 @@
 <div>
 <div width="100%" display="flex">
-<h3 align="center">As a Full-Stack Web Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</h3>
+<h3 align="center">As a Software Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</h3>
 <h3 align="left"> Currently looking for a new opprtunity</h3>
 </div>
 <br/>
@@ -17,7 +17,7 @@
 
 <!-- [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)] -->
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Full+Stack+Web+Developer👨🏻‍💻;" style="width: 100%;">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Software+Developer👨🏻‍💻;" style="width: 100%;">
 <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
 
 
@@ -32,7 +32,7 @@
 
  ## 🙋‍♂️ About Me
 
-- 👯 I’m looking to work as **Full Stack Web Developer**
+- 👯 I’m looking to work as **Software Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Amanastel?tab=repositories)**
 - My Portfolio **[My Portfolio](https://amanastel.github.io/)**
