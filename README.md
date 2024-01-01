@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Aman Astel</h1>
 <div>
 <div width="100%" display="flex">
-<h3 align="center">As a Software Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</h3>
-<h3 align="left"> Currently looking for a new opprtunity</h3>
+<h3 >As a Software Developer, my primary expertise centers around Java-related technologies. I specialize in Spring Boot, demonstrating proficiency in building robust and scalable back-end solutions. Complementing this, I have a strong foundation in JavaScript, utilizing its capabilities for dynamic and interactive front-end development. My skills extend to a basic understanding of Python Django, showcasing rapid adaptability to diverse technologies. I am dedicated to creating efficient and functional web applications with a focus on both back-end and front-end development.</h3>
+<h3> Currently looking for a new opprtunity</h3>
 </div>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanastel&label=Profile%20views&color=0e75b6&style=flat" alt"Amanastel" /> </p>
